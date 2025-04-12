@@ -49,7 +49,7 @@ header{
     color: #fff;
     font-size: 1.5rem;
     cursor: pointer;
-    display: flex;
+    display: none;
 }
 .action_btn{
     background-color: orange;
